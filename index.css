@@ -1,0 +1,28 @@
+
+
+.header{
+  height: 300px;
+  width: 100%;
+  background-color: black;
+}
+.h1 {
+  font-family: Hill House;
+  color: white;
+  font-size: 100px;
+  display: inline-flex;
+  justify-content: space-evenly;
+}
+
+.nav .block_element .a {
+  display: inline-flex;
+  font-family: Hill House;
+  font-size: 36px;
+  justify-content: space-evenly;
+}
+
+
+/* target the class of inline-block below */
+
+/* target the class of .left below */
+
+/* target the class of .right below */
